@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\SiberGuvenlikFinal\SiberGuvenlikFinal\bin\Debug\SiberGuvenlikFinal.exe.config
+C:\Users\HP\source\repos\SiberGuvenlikFinal\SiberGuvenlikFinal\bin\Debug\SiberGuvenlikFinal.exe
+C:\Users\HP\source\repos\SiberGuvenlikFinal\SiberGuvenlikFinal\bin\Debug\SiberGuvenlikFinal.pdb
+C:\Users\HP\source\repos\SiberGuvenlikFinal\SiberGuvenlikFinal\obj\Debug\SiberGuvenlikFinal.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SiberGuvenlikFinal\SiberGuvenlikFinal\obj\Debug\SiberGuvenlikFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SiberGuvenlikFinal\SiberGuvenlikFinal\obj\Debug\SiberGuvenlikFinal.exe
+C:\Users\HP\source\repos\SiberGuvenlikFinal\SiberGuvenlikFinal\obj\Debug\SiberGuvenlikFinal.pdb
